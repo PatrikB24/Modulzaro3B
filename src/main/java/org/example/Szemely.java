@@ -36,7 +36,18 @@ import java.util.List;
                 }
             }
 
+            // Getterek
+            public String getNev() {
+                return nev;
+            }
 
+            public int getKor() {
+                return kor;
+            }
+
+            public List<String> getNyelv() {
+                return nyelv;
+            }
 
         }
 
