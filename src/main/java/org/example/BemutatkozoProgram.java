@@ -11,7 +11,7 @@ public class BemutatkozoProgram {
             private int kor;
             private List<String> nyelv;
 
-            // Konstructor
+            // Konstruktor
             public Szemely(String nev, int kor, List<String> nyelv) {
                 this.nev = nev;
                 this.kor = kor;
