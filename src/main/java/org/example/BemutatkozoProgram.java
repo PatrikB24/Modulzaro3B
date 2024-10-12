@@ -20,6 +20,6 @@ public class BemutatkozoProgram {
 
         // Béla új nyelvet tanul
         Béla.tanulNyelv("French");
-        Béla.bemutatkozas(); // Reintroduce Emily to see the updated languages
+        Béla.bemutatkozas(); // Újrabemutat Béla
     }
 }
